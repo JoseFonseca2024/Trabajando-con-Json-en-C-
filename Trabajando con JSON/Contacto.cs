@@ -1,4 +1,7 @@
 ﻿
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+
 namespace Trabajando_con_JSON
 {
     public class Contacto
@@ -7,6 +10,7 @@ namespace Trabajando_con_JSON
         public string Apellido { get; set; }
         public string Numero { get; set; }
         public enum Telefonia { Tigo, Claro }
+        [JsonConverter(typeof(StringEnumConverter))]
         public Telefonia TipodeTelefonia { get; set; }
 
         public Contacto(string nombre, string apellido, string numero, Telefonia tipodeTelefonia)

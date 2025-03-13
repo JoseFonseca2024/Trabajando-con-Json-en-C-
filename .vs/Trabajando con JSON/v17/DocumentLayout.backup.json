@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\trabajando con json\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|solutionrelative:trabajando con json\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|c:\\users\\usuario\\documents\\uni\\2025\\programaci\u00F3n i\\trabajando con json\\trabajando con json\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|solutionrelative:trabajando con json\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|c:\\users\\usuario\\documents\\uni\\2025\\programaci\u00F3n i\\trabajando con json\\trabajando con json\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\trabajando con json\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|solutionrelative:trabajando con json\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|c:\\users\\usuario\\documents\\uni\\2025\\programaci\u00F3n i\\trabajando con json\\trabajando con json\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6832A57-30FA-4E78-BADE-5AB09DF0A8D3}|Trabajando con JSON\\Trabajando con JSON.csproj|solutionrelative:trabajando con json\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\bin\\Debug\\Contactos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Trabajando con JSON\\bin\\Debug\\Contactos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Contactos.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\bin\\Debug\\Contactos.json",
+              "RelativeDocumentMoniker": "Trabajando con JSON\\bin\\Debug\\Contactos.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\bin\\Debug\\Contactos.json",
+              "RelativeToolTip": "Trabajando con JSON\\bin\\Debug\\Contactos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T02:56:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\Form1.cs",
               "RelativeDocumentMoniker": "Trabajando con JSON\\Form1.cs",
@@ -67,28 +83,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Contacto.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\Contacto.cs",
               "RelativeDocumentMoniker": "Trabajando con JSON\\Contacto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\Contacto.cs",
-              "RelativeToolTip": "Trabajando con JSON\\Contacto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\Contacto.cs*",
+              "RelativeToolTip": "Trabajando con JSON\\Contacto.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T01:31:09.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\Form1.cs",
               "RelativeDocumentMoniker": "Trabajando con JSON\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\UNI\\2025\\Programaci\u00F3n I\\Trabajando con JSON\\Trabajando con JSON\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Trabajando con JSON\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:29:04.844Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-13T01:29:04.844Z"
             }
           ]
         }
