@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\bin\Debug\Trabajando con JSON.exe.config
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\bin\Debug\Trabajando con JSON.exe
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\bin\Debug\Trabajando con JSON.pdb
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando con JSON.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando_con_JSON.Form1.resources
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando_con_JSON.Properties.Resources.resources
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando con JSON.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando con JSON.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando con JSON.exe
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajando con JSON.pdb
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\UNI\2025\Programación I\Trabajando con JSON\Trabajando con JSON\obj\Debug\Trabajan.0A0D7019.Up2Date
